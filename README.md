@@ -1,0 +1,1 @@
+This project is a simple HTML and CSS clone of the Amazon website, created for learning purposes. It mimics the basic structure and styling of the original Amazon site, allowing users to get a glimpse of its appearance.
